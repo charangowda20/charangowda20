@@ -2,7 +2,7 @@
 Hi👋, I'm Charan Gowda K<br><br>🌱 I’m currently learning Cyber Security<br><br>🔭 I’m currently working as student<br><br>🖥 All of my projects are available on GitHub<br><br>📄Check out my resume here-<br><br>💬 Ask me about Apps, Cyber security
 
 ---
-[![](https://komarev.com/ghpvc/?username=charangowda20&icon=2&color=80)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=charangowda20&icon=2&color=1)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_charangowda_20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charan-gowda-k-7092ab395) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@charangowda_20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charangowdak255@gmail.com) 
 
