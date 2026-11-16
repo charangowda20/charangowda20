@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi👋, I'm Charan Gowda K<br><br>🌱 I’m currently learning Cyber Security<br><br>🔭 I’m currently working as student<br><br>🖥 All of my projects are available on GitHub<br><br>📄Check out my resume here-<br><br>💬 Ask me about Apps, Cyber security
+Hi👋, I'm Charan Gowda K<br><br>🌱 I’m currently learning Cyber Security<br><br>🔭 I’m currently working as student<br><br>🖥 All of my projects are available on GitHub<br><br>📄Check out my resume here-<br><br>💬 Ask me about Apps,Backhand, Cyber security, Artificial Intelligence.
 
 ---
 [![](https://komarev.com/ghpvc/?username=charangowda20&icon=2&color=1)](https://visitcount.itsvg.in)
